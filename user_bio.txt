@@ -1,0 +1,11 @@
+
+
+==================================
+                BIO
+==================================
+Applicant Name: Master wayne
+Current_Field: Vengence
+Favorite_Programming_language: C
+Experience_of_working: 2
+Goal_for_2026: become many thing and do many things.
+
